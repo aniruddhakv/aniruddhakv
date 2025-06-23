@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aniruddha K V</h1>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Aniruddha+K+V;Embedded+Systems+%7C+AI+%7C+Full-Stack+Developer;Lifelong+Learner+%7C+Tech+Explorer&center=true&width=600&height=45&color=00F7FF&background=000000&vCenter=true&pause=1000&size=22" />
+</p>
+
+<!-- Particle Background (simulated with GIF) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100%" />
+</p>
+
 <h3 align="center">Passionate about Embedded Systems, AI, and Full-Stack Development</h3>
 
 ---
@@ -26,27 +35,27 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🛢️ Databases
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### ☁️ Deployment Platforms
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 ### 🎨 Design Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
